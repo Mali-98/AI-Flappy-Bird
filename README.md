@@ -22,7 +22,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/flappy-bird-ai.git
+   git clone https://github.com/Mali-98/AI-Flappy-Bird.git
    ```
 
 2. **Navigate to the Project Directory**:
