@@ -27,7 +27,7 @@ To get started with this project, follow the steps below:
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd flappy-bird-ai
+   cd AI-Flappy-Bird
    ```
 
 3. **Install Dependencies**:
@@ -39,7 +39,7 @@ To get started with this project, follow the steps below:
 
 1. **Train the AI**:
    ```bash
-   python flappy_bird_ai.py
+   python main.py
    ```
 
 2. **Watch the AI Play**:
@@ -64,15 +64,4 @@ To get started with this project, follow the steps below:
 ## Contributing
 
 We welcome contributions to enhance this project. Feel free to open issues or submit pull requests with improvements, bug fixes, or new features.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
----
-
 Feel free to customize the content to better fit your project's specifics and your preferences.
